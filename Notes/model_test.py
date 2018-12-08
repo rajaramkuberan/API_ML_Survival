@@ -1,1 +1,0 @@
-Welcome to Flask_API_machine_learning

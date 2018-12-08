@@ -1,1 +1,6 @@
-Welcome to Flask_API_machine_learning
+Flask_API_machine_learning
+
+1) Load Titanic dataset and select the four features which are important,using data preprocessing and feature importance technique.
+2) Built a Classifier.
+3) Create pickled file using joblib.
+4) Write a simple API using Flask that would predict if a person had survived in the shipwreck given their age, sex and embarked information.

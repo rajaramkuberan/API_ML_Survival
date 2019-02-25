@@ -1,2 +1,2 @@
-# API_Titanic_ML
+# API_ML
  Machine learning model - API
